@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahsenozdil
-- 👀 UI/UX Tasarım ve Front-end alanlarıyla ilgileniorum
+- 👀 UI/UX Tasarım ve Front-end alanlarıyla ilgileniyorum
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Bana ahsenn.ozdil@icloud.com  mail adresim üzerinden ulaşabilir
