@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahsenozdil
-- 👀 UI/UX Tasarım ve Front-end alanlarıyla ilgileniyorum
+- 👀 UI/UX Tasarım ve Front-end alanlarıyla ilgileniyorum.
 - 🌱 Javascript öğreniyorum...
-- 📫 Bana ahsenn.ozdil@icloud.com  mail adresim üzerinden ulaşabilir
+- 📫 Bana ahsenn.ozdil@icloud.com  mail adresim üzerinden ulaşabilirsiniz.
 
 <!---
 ahsenozdil/ahsenozdil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
